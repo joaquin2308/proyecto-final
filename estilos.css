@@ -14,7 +14,7 @@ section#hero{
     border: 1px solid white;
 }
 section#proyectos{
-    height: 2000px;
+    height: 1700px;
     background-color: lightcyan;
 }
 h1{
@@ -84,6 +84,7 @@ nav ul li{
 
 section#contacto{
     height: 400;
+    background-color: #f8e4e4;
 }
 html{
     scroll-behavior: smooth;
