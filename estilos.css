@@ -1,5 +1,4 @@
 
-
 section#hero{
     height: 800px;
     border: 1px solid #ffb2b2;
@@ -13,8 +12,9 @@ section#hero{
     float:left;
     border: 1px solid white;
 }
+
 section#proyectos{
-    height: 1700px;
+    height: 2000px;
     background-color: lightcyan;
 }
 h1{
@@ -83,8 +83,8 @@ nav ul li{
 }
 
 section#contacto{
-    height: 400;
-    background-color: #f8e4e4;
+    height: 800;
+    background-color: #f8e4e4 ;
 }
 html{
     scroll-behavior: smooth;
